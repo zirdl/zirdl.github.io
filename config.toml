@@ -1,5 +1,5 @@
 #The base URL of the site; the only required configuration variable.
-base_url = "https://zirdl.github.io/"
+base_url = "https://zirdl.github.io"
 theme = "kita"
 # The site title and description; used in feeds by default.
 title = "zirdl"
@@ -59,7 +59,7 @@ header_blur = true
 # header_dark_color = ""
 [extra.profile]
 name = "zirdl 🧑🏻‍💻"
-bio = "Just another platform for me to show what I've got. You can head to the About page and have a peek about what I do in life 😉."
+bio = "Just another platform for me to show what I've got. You can head to the About page and have a peek on some stuff about me 😉."
 avatar_url = "./imgs/warped.png"
 avatar_invert = false
 
@@ -71,9 +71,9 @@ url = "https://github.com/zirdl"
 name = "mastodon"
 url = "https://linux.social/@_zirdl"
 
-# [[extra.profile.social]]
-# name = "rss"
-# url = "$BASE_URL/atom.xml"
+[[extra.profile.social]]
+name = "rss"
+url = "$BASE_URL/atom.xml"
 
 # [[extra.menu]]
 # name = "Projects"

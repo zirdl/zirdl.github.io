@@ -1,5 +1,5 @@
 +++
-title = "Life Roadmap 🧭"
+title = "Life Roadmap"
 date = 2023-10-03
 description = "A descriptive homework in compliance to\n our Organization and Management course."
 [taxonomies]
@@ -41,6 +41,14 @@ Then I'll buy a car, I like pick-up trucks specifically the brands—Ford, Nissa
 
 # The Succeeding Years
 
-The Following years, I might plan to enter a romantic relationship. Builing [Dream house](https://www.pinoyhouseplans.com/mateo-four-bedroom-two-story-house-plan/) or acquiring my own condominium unit might come into place regardless if I'm married or not. A self-sustained lifestyle shouldn't also be neglected. I'll continue then, to enjoy what life has to throw at me.
+The Following years, I might plan to enter a romantic relationship. Builing [Dream house](https://www.pinoyhouseplans.com/mateo-four-bedroom-two-story-house-plan/) or acquiring my own condominium unit might come into place regardless if I'm married or not. A **self-sustained lifestyle** shouldn't also be neglected. I'll continue then, to enjoy what life has to throw at me. Below are some of my ideal designs and particular setting for a house, designed by [PinoyBahayIdeas](https://www.facebook.com/pinoybahayideas?__tn__=-UC*F) on Facebook. 
 <br><center>
-![house](/imgs/house.jpg)<br></center>
+![house](/imgs/wide.jpg)
+![view](/imgs/view.jpg)
+![porch](/imgs/porch.jpg)
+![yard](/imgs/yard.jpg) 
+![terrace](/imgs/terrace.jpg) 
+![bedroom](/imgs/bedroom.jpg) 
+![kitchen](/imgs/kitchen.jpg) 
+<br></center>
+

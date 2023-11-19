@@ -5,7 +5,8 @@ path = "about"
 
 I'm Gio, I'm a second year student of the College of Information Systems, and a campus journalist at [Don Mariano Marcos Memorial State University, Philippines](https://dmmmsu.edu.ph).
 
-I like to write stuff during my spare time so I created this website for the purpose of publishing my ideas, insights, opinions, and tutorials. I also created the [/tots](/tots) directory as my own microblog where my random thoughts or ideas will be written.
+This little platform of mine's sole purpose is to **showcase my ideas and projects without depending heavily on social media.** This sudden burst of desire to publicize my work was largely inspired by reading **Austin Kleon's** **[Show Your Work.](https://austinkleon.com/show-your-work/)** Here's a quote from the book that triggered the inception of this website:
+> *Carving out a space for yourself online, somewhere where you can express yourself and share your work, is still one of the best possible investments you can make with your time*
 
 **Interests:**
 
