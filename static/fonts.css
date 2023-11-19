@@ -1,0 +1,32 @@
+/* import to main */
+@font-face {
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/SpaceGrotesk/SpaceGrotesk-Regular.ttf"), local("ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/SpaceGrotesk/SpaceGrotesk-Bold.ttf"), local("ttf");
+  font-display: swap;
+}
+@font-face {
+  font-family: "Recursive Mono";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/RecursiveMono/RecursiveMonoLnrSt-Regular.ttf"),
+    local("ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Recursive Mono";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/RecursiveMono/RecursiveMonoLnrSt-Bold.ttf"), local("otf");
+  font-display: swap;
+}
