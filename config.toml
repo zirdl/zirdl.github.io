@@ -60,7 +60,7 @@ header_blur = true
 [extra.profile]
 name = "zirdl 🧑🏻‍💻"
 bio = "Just another platform for me to show what I've got. You can head to the About page and have a peek on some stuff about me 😉."
-avatar_url = "./imgs/warped.png"
+avatar_url = "/imgs/warped.png"
 avatar_invert = false
 
 [[extra.profile.social]]
@@ -69,7 +69,7 @@ url = "https://github.com/zirdl"
 
 [[extra.profile.social]]
 name = "mastodon"
-url = "https://linux.social/@_zirdl"
+url = "https://defcon.social/@_zirdl"
 
 [[extra.profile.social]]
 name = "rss"

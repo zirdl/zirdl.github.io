@@ -14,9 +14,7 @@ This little platform of mine's sole purpose is to **showcase my ideas and projec
 - 💡 Free and Open Source Software (FOSS)
 - 💻 Coding
 - 📑 Graphic & Layout Design
-- ✒️ Poetry
 - 🏛️ Stoicism
-- 📚 Non-fiction Books
 - 🏓 Table Tennis
 - ♞ Chess
 

@@ -3,7 +3,7 @@ title = "Can We Fix Social Media?"
 date = "2023-11-19"
 description = "Flaws and Fix to the Social Dilemma."
 [taxonomies]
-tags = ["devcomm"]
+tags = ["devcomm", "is_peak"]
 +++
 
 # The Social Dilemma
