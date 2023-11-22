@@ -433,6 +433,11 @@ video {
   height: auto;
   border-radius: 9px;
 }
+.banner img {
+  margin-top: unset;
+  margin-bottom: 1em;
+  align-items: center;
+}
 
 /* Make elements with the HTML hidden attribute stay hidden by default */
 

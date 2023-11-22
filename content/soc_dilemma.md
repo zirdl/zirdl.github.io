@@ -2,6 +2,8 @@
 title = "Can We Fix Social Media?"
 date = "2023-11-19"
 description = "Flaws and Fix to the Social Dilemma."
+[extra]
+local_image = "/imgs/socmed.png"
 [taxonomies]
 tags = ["devcomm", "is_peak"]
 +++
