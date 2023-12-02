@@ -4,8 +4,6 @@ date = 2023-10-03
 description = "A descriptive homework in compliance to\n our Organization and Management course."
 [taxonomies]
 tags = ["personal"]
-[extra]
-author = "gio"
 +++
 In our 'Organization and Management' subject with Prof. Shalimar Navalta, we were instructed to present a "dreamboard"— _piece of paper containing pasted images of desired possessions_, or rather how we see ourselves after 10 years on a 22.5 x 18.5 inches piece of cartolina paper. But I'm not artistic enough to compile all my fantasies on that limited size of paper, so I figured **I'll follow our Instructor's instructions, but do it the 'me' way?**
 

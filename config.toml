@@ -2,7 +2,7 @@
 base_url = "https://zirdl.github.io"
 theme = "kita"
 # The site title and description; used in feeds by default.
-title = "zirdl"
+title = "zirdl ⌨"
 description = "Welcome to my website"
 
 # The default site author.
@@ -58,7 +58,7 @@ header_blur = true
 # The custom header color in dark mode.
 # header_dark_color = ""
 [extra.profile]
-name = "zirdl 🧑🏻‍💻"
+name = "zirdl ⌨"
 bio = "Just another platform for me to show what I've got. You can head to the About page and have a peek on some stuff about me 😉."
 avatar_url = "/imgs/warped.png"
 avatar_invert = false

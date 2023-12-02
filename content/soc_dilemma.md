@@ -1,17 +1,19 @@
 +++
 title = "Can We Fix Social Media?"
 date = "2023-11-19"
-description = "Flaws and Fix to the Social Dilemma."
-[extra]
-local_image = "/imgs/socmed.png"
+description = "Discussing the Social Dilemma and the possible solutions to it."
 [taxonomies]
 tags = ["devcomm", "is_peak"]
 +++
 
 # The Social Dilemma
+![poster](/imgs/socdil.jpg) 
+
 The Netflix Docudrama—[The Social Dilemma](https://www.netflix.com/ph-en/title/81254224) explores social media's flaws and harmful effects directed not just to our health, but also to our freedom and democracy. **The Social Dilemma** serves as a wake-up call, urging viewers to critically evaluate their relationship with social media and consider the broader implications of its widespread use. By exposing the flaws and harmful effects of these platforms, the documentary aims to spark conversations and encourage individuals, policymakers, and tech companies to address the ethical and societal challenges associated with social media.
 
 As we navigate the intricate landscape of social media, it becomes crucial to understand why we cannot blindly trust it while also acknowledging the challenges posed by completely quitting its use.
+
+We can visit [their website at thesocialdilemma.com](https://www.thesocialdilemma.com/) to learn more, and take action regarding the matter.
 
 ## We Cannot Trust Social Media
 Have you ever read the **Terms and Conditions** of Facebook, Instagram, Twitter, or maybe Threads before ticking that check box and clicking the ***Sign up*** button? Did you know that Meta (formerly Facebook) [collects all your activities from their products?](https://www.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) Meta, on their Privacy Policy page states that they're using your data to [improve various features of their products such as filters and the quality of voice recordings,](https://www.facebook.com/privacy/policy?annotations[0]=1.story.3-WhatWeCollectFrom&subpage=1.subpage.1-YourActivityAndInformation) they're also using your data to [show you advertisements](https://www.facebook.com/about/ads) based from your activities on and off their platforms. Meta **[wants everything their users see to be interesting and useful to them](https://www.facebook.com/privacy/policy/?subpage=2.subpage.2-HowWeShowAds).**  In Layman's terms, they're using your precious data to leverage profit; **their entire business model runs on analyzing user data for targeted advertisements.**
