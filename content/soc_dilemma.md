@@ -2,12 +2,13 @@
 title = "Can We Fix Social Media?"
 date = "2023-11-19"
 description = "Discussing the Social Dilemma and the possible solutions to it."
+[extra]
+local_image = "/imgs/socdil.jpg"
 [taxonomies]
 tags = ["devcomm", "is_peak"]
 +++
 
 # The Social Dilemma
-![poster](/imgs/socdil.jpg) 
 
 The Netflix Docudrama—[The Social Dilemma](https://www.netflix.com/ph-en/title/81254224) explores social media's flaws and harmful effects directed not just to our health, but also to our freedom and democracy. **The Social Dilemma** serves as a wake-up call, urging viewers to critically evaluate their relationship with social media and consider the broader implications of its widespread use. By exposing the flaws and harmful effects of these platforms, the documentary aims to spark conversations and encourage individuals, policymakers, and tech companies to address the ethical and societal challenges associated with social media.
 
