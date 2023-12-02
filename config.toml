@@ -1,6 +1,6 @@
 #The base URL of the site; the only required configuration variable.
 base_url = "https://zirdl.github.io"
-theme = "kita"
+theme = "kitaem"
 # The site title and description; used in feeds by default.
 title = "zirdl ⌨"
 description = "Welcome to my website"

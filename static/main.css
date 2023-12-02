@@ -431,7 +431,7 @@ img,
 video {
   max-width: 100%;
   height: auto;
-  border-radius: 9px;
+  border-radius: 4px;
 }
 .banner img {
   margin-top: unset;
