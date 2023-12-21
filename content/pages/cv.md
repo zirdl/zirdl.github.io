@@ -22,7 +22,7 @@ path = "cv"
 
 ### Fields
 
-- Graphic and Layout Art [click here for my portfolio](url) 
+- Graphic and Layout Art [click here for my portfolio](https://drive.google.com/drive/folders/1TWbIheJGKoxM2bUQFbwDMC6PrHG98U-0?usp=sharing) 
 - Creative and Technical Writing
 - Java Programming
 - Linux
