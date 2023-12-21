@@ -7,12 +7,18 @@ description = "How I endured 6 months without a smartphone."
 tags = ["personal"]
 +++
 
-* **Pros** 
-  * I'm forced to use my Linux-powered laptop; which gave me:
-    * Absolute control over the content I'm consuming
-    * Ad-free experience
-    * Zero proprietary software or bloatware
-    * Peace of mind that my files aren't secretly synced to someones computer (I'm talking 'bout you Microshit)
-  * I had an indispensable excuse to avoid annoying people making phone calls out of the blue
-  * A great way to take a break from social media; no camera, no notifications, no bullshit.
-  * 
+### Context
+#### What happened on April 29, 2023?
+
+### After Shocks
+#### Striving to get a new one
+#### Part-time jobs
+
+### Getting through a term without a phone
+* No Notifications
+* No Music to pump-up the mood
+* No Alarm clocks
+* No Calls
+* Using analog tools
+* Struggles
+

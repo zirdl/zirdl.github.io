@@ -8,8 +8,9 @@ I'm Gio, I'm a second year student of the College of Information Systems, and a 
 This little platform of mine's sole purpose is to **showcase my ideas and projects without depending heavily on social media.** This sudden burst of desire to publicize my work was largely inspired by reading **Austin Kleon's** **[Show Your Work.](https://austinkleon.com/show-your-work/)** Here's a quote from the book that triggered the inception of this website:
 > *Carving out a space for yourself online, somewhere where you can express yourself and share your work, is still one of the best possible investments you can make with your time*
 
-**Interests:**
+[Click here for my CV](https://zirdl.github.io/cv) 
 
+**Interests:**
 - 🐧 Linux
 - 💡 Free and Open Source Software (FOSS)
 - 💻 Coding
@@ -18,6 +19,3 @@ This little platform of mine's sole purpose is to **showcase my ideas and projec
 - 🏓 Table Tennis
 - ♞ Chess
 
-### 📬 Got any messages for me?
-
-Send an anonymous message by clicking [here](https://storyzink.com/m/cek4e9pn?s=2)
