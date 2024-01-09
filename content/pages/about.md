@@ -9,6 +9,7 @@ This little platform of mine's sole purpose is to **showcase my ideas and projec
 > *Carving out a space for yourself online, somewhere where you can express yourself and share your work, is still one of the best possible investments you can make with your time*
 
 [Click here for my CV](https://zirdl.github.io/cv) 
+
 [You are challenged by the Computer to play Tic-Tac-Toe](https://zirdl.github.io/tiktik) 
 **Interests:**
 - 🐧 Linux
