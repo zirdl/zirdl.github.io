@@ -1,8 +1,8 @@
 #The base URL of the site; the only required configuration variable.
-base_url = "https://zirdl.github.io"
+base_url = "https://zirdl.codeberg.page"
 theme = "kita"
 # The site title and description; used in feeds by default.
-title = "zirdl ⌨"
+title = "zirdl⌨"
 description = "Welcome to my website"
 
 # The default site author.
@@ -58,10 +58,10 @@ header_blur = true
 # The custom header color in dark mode.
 # header_dark_color = ""
 [extra.profile]
-name = "zirdl ⌨"
-bio = "Just another platform for me to show what I've got. You can head to the About page and have a peek on some stuff about me 😉."
-avatar_url = "/imgs/warped.png"
-avatar_invert = false
+name = "zirdl"
+bio = "Student-Journalist, Student-Athlete, Student-lang. Credits to SLUC's The College Forum on capturing that photo of mine during the Univ-Wide Debate Competition."
+avatar_url = "/imgs/hearing_aid.jpg"
+avatar_invert = false 
 
 [[extra.profile.social]]
 name = "github"

@@ -2,11 +2,13 @@
 title = "Can We Fix Social Media?"
 date = "2023-11-19"
 description = "Discussing the Social Dilemma and the possible solutions to it."
+[extra]
+cover_image = "/imgs/newspaper-addicts.jpg"
 [taxonomies]
-tags = ["devcomm", "is_peak"]
+tags = ["devcomm"]
 +++
 
-# The Social Dilemma
+## The Social Dilemma
 ![social_dilemma](/imgs/Untitled.jpg) 
 The Netflix Docudrama—[The Social Dilemma](https://www.netflix.com/ph-en/title/81254224) explores social media's flaws and harmful effects directed not just to our health, but also to our freedom and democracy. **The Social Dilemma** serves as a wake-up call, urging viewers to critically evaluate their relationship with social media and consider the broader implications of its widespread use. By exposing the flaws and harmful effects of these platforms, the documentary aims to spark conversations and encourage individuals, policymakers, and tech companies to address the ethical and societal challenges associated with social media.
 
@@ -28,7 +30,12 @@ This is just the tip of the iceberg on why we cannot trust social media with our
 
 ## But Neither Can We Quit Using It 
 
-Despite those aforementioned facts on the flaws of social media, we cannot also deny the fact that it [social media] has become interwined with our lives. A [research from statista.com](https://www.statista.com/statistics/1127983/philippines-leading-social-media-platforms/) shows that Facebook, in the Philippines, still rules as the top social media platform, [primary source of news](https://www.statista.com/statistics/1219918/philippines-sources-of-news-by-channel/), and a ground for e-commerce companies to reach their consumers. Like the Telegraph, Print-Media, Radio and Television, Social Media shaped how we communicate and connect interpersonally.
+Despite those aforementioned facts on the flaws of social media, we cannot also deny the fact that it [social media] has become interwined with our lives. A [research from statista.com](https://www.statista.com/statistics/1127983/philippines-leading-social-media-platforms/) shows that Facebook, in the Philippines, still rules as the top social media platform, [primary source of news](https://www.statista.com/statistics/1219918/philippines-sources-of-news-by-channel/), and a ground for e-commerce companies to reach their consumers. **Like the Telegraph, Print Media, Radio and Television, Social Media shaped how we communicate and connect interpersonally**.
+<br><center>
+![alt](/imgs/newspaper-addicts.jpg)
+</center>
+
+*Image of people consuming news through print media [(Source)](https://www.sadanduseless.com/evil-iphones/)*
 
 We don't want to be missed-out from societal norms, and social media is a huge part of that norm. The **fear of missing out (FOMO)** on social interactions, events, and updates from friends and acquaintances is one of the factors why users are hesitant to quit social media. Social media platforms offer a convenient and instantaneous way to stay connected with others, making it difficult for individuals to sever these virtual ties. According to a [study](https://www.researchgate.net/publication/325452848_The_theory_of_planned_behaviour_and_user_engagement_applied_to_Facebook_advertising#read) conducted by Dhir, Pallesen, and Torsheim (2016), FOMO significantly predicts social media engagement, indicating its influence on users' **reluctance to quit**.
 
@@ -38,7 +45,7 @@ On the psychological side of things, social media platforms provide a sense of v
 
 Social media also has become a major source of news, entertainment, and information in the digital age. Platforms like Twitter, Facebook, and Instagram offer quick access to real-time updates, trending topics, and viral content. Quitting social media can result in a perceived loss of valuable information and entertainment. An [article](https://www.researchgate.net/publication/266164688_Social_Media_in_the_Changing_Ecology_of_News_The_Fourth_and_Fifth_Estate_in_Britain#read) by Newman, Dutton, and Blank (2019) discusses the role of social media in news consumption and its impact on information behavior, shedding light on the difficulties associated with giving up these platforms.
 
-# How Can We Fix it Then?
+## How Can We Fix it Then?
 
 Fixing social media requires a holistic approach that addresses various aspects of its design, impact, and regulation. First and foremost, increased transparency and accountability are crucial. Social media platforms should be transparent about their algorithms, content moderation practices, and data collection methods. This transparency would enable users to better understand how their data is used and empower them to make informed choices about their online interactions. Additionally, establishing clear guidelines and standards for responsible content curation and moderation can help combat the spread of misinformation, hate speech, and harmful content.
 

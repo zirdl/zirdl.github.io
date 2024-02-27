@@ -1005,7 +1005,7 @@ body {
 }
 
 .prose {
-  --tw-prose-body: #374151;
+  --tw-prose-body: #ffd4b4;
   --tw-prose-headings: #111827;
   --tw-prose-lead: #4b5563;
   --tw-prose-links: #111827;
@@ -1187,7 +1187,7 @@ body {
 
 .prose
   :where(figure):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
-  margin-top: 2em;
+  margin-top: 0em;
   margin-bottom: 2em;
 }
 
@@ -1708,6 +1708,10 @@ body {
   padding-right: 0.75rem;
 }
 
+.pr-4 {
+    padding-right: 1rem;
+}
+
 .pt-32 {
   padding-top: 8rem;
 }
@@ -1878,15 +1882,22 @@ body {
   display: flex;
 }
 
-/* article { */
-/*   font-size: 1em; */
-/*   line-height: 1.3rem; */
-/* } */
+article {
+  font-size: 1em;
+  line-height: 1.3rem;
+}
 
-/* p { */
-  /* text-align: justify; */
-  /* text-justify: inter-word; */
-  /* hyphens: auto; */
+p {
+  text-align: justify;
+  text-justify: inter-ideograph;
+  hyphens: auto;
+}
+
+l,
+ol {
+    text-align: justify;
+    text-justify: inter-ideograph;
+    hyphens: auto;
 }
 
 .header {
