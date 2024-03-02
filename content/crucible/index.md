@@ -10,7 +10,7 @@ tags = ["Acads"]
 +++
 
 {% admonition (type="info", title="Note") %}
-This is a Proposal Paper **written solely for the submission of our project on ISAE-102: Innovations and New Technologies** under **Dr. Rhoda M. Lilan** , and is purely creative under the sense of a process for innovation. This paper [text] will be updated within the span of our semester.
+This is a Proposal Paper **written solely for the submission of our project on ISAE-102: Innovations and New Technologies** under **Dr. Rhoda M. Lilan** , and is purely creative under the sense of a process for innovation. This paper [text] will be updated within the span of our semester. 
 
 This paper was presented by:
 * Giovani B. Valdriz
@@ -18,6 +18,11 @@ This paper was presented by:
 * Jeandra Joy Orfiano
  
 **Download the printable PDF of our paper** [here](/crucible/Prop_Paper.pdf)  
+#### Our Publication Materials (added: Mar. 1, 2024):
+- [Flyer](flyer.pdf) 
+- [Brochure](brochure.pdf) 
+- [Magazine](magz.pdf)
+ 
 
 {%end%}
 

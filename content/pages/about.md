@@ -5,7 +5,9 @@ path = "about"
 
 I'm **Gio**, a second year student, student-athlete, and a student-journalist from the **College of Information Systems** of [Don Mariano Marcos Memorial State University North La Union Campus, Philippines](https://www.dmmmsu.edu.ph/category/campus/nluc/).
 
-This little platform of mine was born to **share what I do without relying heavily on social media.** This sudden burst of desire to publicize my work was largely inspired by reading **Austin Kleon's** **[Show Your Work.](https://austinkleon.com/show-your-work/)** Here's a quote from the book that triggered the inception of this website:
+I am the Chief Layout Artist of the Green Valley Treasure. I mainly do my work with free and open-source software. As for my line on writing, I do write Development Communication, Feature, and sometimes Opinion articles.
+
+This little platform of mine was born to **share what I do without relying heavily on social media or any other proprietary service.** This sudden burst of desire to publicize my work was largely inspired by reading **Austin Kleon's** **[Show Your Work.](https://austinkleon.com/show-your-work/)** Here's a quote from the book that triggered the inception of this website:
 
 {% admonition(type="quote", title="A. Kleon") %}
 
