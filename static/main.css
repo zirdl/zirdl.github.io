@@ -1887,18 +1887,18 @@ article {
   line-height: 1.3rem;
 }
 
-p {
-  text-align: justify;
-  text-justify: inter-ideograph;
-  hyphens: auto;
-}
-
-l,
-ol {
-    text-align: justify;
-    text-justify: inter-ideograph;
-    hyphens: auto;
-}
+/* p { */
+/*   text-align: justify; */
+/*   text-justify: inter-ideograph; */
+/*   hyphens: auto; */
+/* } */
+/**/
+/* l, */
+/* ol { */
+/*     text-align: justify; */
+/*     text-justify: inter-ideograph; */
+/*     hyphens: auto; */
+/* } */
 
 .header {
   background-color: var(--header);
