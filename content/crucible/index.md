@@ -1,8 +1,8 @@
 +++
-title = "ISAE-102: From Creativity to Innovation"
+title = "ISAE-102: Creativity fuels Innovation"
 date = "2024-02-27"
 draft = false
-description = "Our Paper on the Process of Innovating the Honda Pilot TrailSport"
+description = "An Academic Paper on the Process of Innovating the Honda Pilot TrailSport"
 [extra]
 cover_image = "/crucible/gogh.png"
 [taxonomies]

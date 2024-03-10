@@ -6,7 +6,7 @@
 1. Prevent padding and border from affecting element width. (https://github.com/mozdevs/cssremedy/issues/4)
 2. Allow adding a border to an element by just adding a border-width. (https://github.com/tailwindcss/tailwindcss/pull/116)
 */
-@import "fonts.css";
+@import "space.css";
 *,
 ::before,
 ::after {
@@ -43,12 +43,12 @@ html {
   -o-tab-size: 4;
   tab-size: 4;
   /* 3 */
-  font-family: "SpaceMono";
+  font-family: "SpaceGrotesk";
   /* 4 */
   font-feature-settings: normal;
   /* 5 */
   font-variation-settings: normal;
-  font-size: 1em;
+  font-size: 1.2em;
   /* 6 */
 }
 
@@ -1882,10 +1882,10 @@ body {
   display: flex;
 }
 
-article {
-  font-size: 1em;
-  line-height: 1.3rem;
-}
+/* article { */
+/*   font-size: 1rem; */
+/*   line-height: 1.4rem; */
+/* } */
 
 /* p { */
 /*   text-align: justify; */
@@ -2073,7 +2073,7 @@ article {
   background-position: right;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 200px) {
   .md\:min-h-\[18rem\] {
     min-height: 18rem;
   }
@@ -2083,11 +2083,11 @@ article {
   }
 
   .lg\:text-base {
-    font-size: 1rem;
+    font-size: 0.9em;
     line-height: 1.3rem;
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 768px) {
   .lg\:mb-6 {
     margin-bottom: 1.5rem;
   }
@@ -2146,4 +2146,5 @@ article {
     font-size: 1.1rem;
     line-height: 1.3rem;
   }
+    }
 }

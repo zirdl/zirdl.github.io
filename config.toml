@@ -59,13 +59,9 @@ header_blur = true
 # header_dark_color = ""
 [extra.profile]
 name = "zirdl"
-bio = "Student-Journalist, Student-Athlete, Student-lang. Credits to SLUC's The College Forum on capturing that photo of mine during the Univ-Wide Debate Competition."
+bio = "Just another Campus-journalist, Student-Athlete, Student-lang. Credits to SLUC's The College Forum on capturing that photo of me during the Univ-Wide Debate Competition."
 avatar_url = "/imgs/hearing_aid.jpg"
 avatar_invert = false 
-
-[[extra.profile.social]]
-name = "github"
-url = "https://github.com/zirdl"
 
 [[extra.profile.social]]
 name = "mastodon"
