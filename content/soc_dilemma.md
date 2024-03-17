@@ -4,7 +4,7 @@ date = "2023-11-19"
 description = "Digging deep on one of our modern age's most critical dilemma brought to us by Social Media—The Social Dilemma; which is the title of Netflix's award winning documentary."
 [extra]
 [taxonomies]
-tags = ["devcomm"]
+tags = ["Devcomm"]
 +++
 
 ## The Social Dilemma

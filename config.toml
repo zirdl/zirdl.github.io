@@ -42,6 +42,11 @@ extra_syntaxes_and_themes = []
 # See below for list of allowed values.
 highlight_theme = "base16-ocean-dark"
 
+[extra]
+math = false
+mermaid = false
+comment = true
+
 [extra.style]
 # The custom background color.
 # bg_color = ""
@@ -87,7 +92,24 @@ url = "$BASE_URL/tags"
 name = "About"
 url = "$BASE_URL/about"
 
+# F O O T E R 
+
 [extra.footer]
 since = 2023
 license = "CC BY-SA 4.0"
 license_url = "https://creativecommons.org/licenses/by-sa/4.0/deed"
+
+# G I S C U S   C O M M E N T S
+[extra.giscus]
+repo = "zirdl.github.io"
+repo_id = "700331346"
+category = ""
+category_id = ""
+mapping = "pathname"
+strict = 1
+reactions_enabled = 1
+emit_metadata = 0
+input_position = "top"
+theme = "light"
+lang = "en"
+loading = "lazy"

@@ -5,7 +5,7 @@ draft = false
 description = "An Academic Paper on the Process of Innovating the Honda Pilot TrailSport"
 [extra]
 [taxonomies]
-tags = ["Acads"]
+tags = ["Academic"]
 +++
 
 {% admonition (type="info", title="Note") %}
