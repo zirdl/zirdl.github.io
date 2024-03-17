@@ -101,15 +101,15 @@ license_url = "https://creativecommons.org/licenses/by-sa/4.0/deed"
 
 # G I S C U S   C O M M E N T S
 [extra.giscus]
-repo = "zirdl.github.io"
-repo_id = "700331346"
-category = ""
-category_id = ""
-mapping = "pathname"
+repo = "zirdl/zirdl.github.io"
+repo_id = "R_kgDOKb41Ug"
+category = "Ideas"
+category_id = "DIC_kwDOKb41Us4CeCAm"
+mapping = "title"
 strict = 1
 reactions_enabled = 1
 emit_metadata = 0
 input_position = "top"
-theme = "light"
+theme = "transparent_dark"
 lang = "en"
 loading = "lazy"
