@@ -2,7 +2,7 @@
 title = "Feature: Captured with a Kit Lens"
 path = "kitlens"
 date = "2024-02-09"
-draft = false
+draft = true 
 description = "PJF14—A CIS Photojournalist bagged gold" 
 [extra]
 [taxonomies]
