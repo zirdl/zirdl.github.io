@@ -7,7 +7,7 @@ I'm **Gio**, a second year student, student-athlete, and a campus-journalist fro
 
 I am the Chief Layout Artist of the Green Valley Treasure. I mainly do my work with **free and open-source software**. As for my line on writing, I do write **Development Communication**, **Feature**, and **Opinion** articles.
 
-This little platform of mine was born to **share what I do without relying heavily on social media or any other service without my granular control.** This sudden burst of desire to publicize my work was largely inspired by reading **Austin Kleon's** **[Show Your Work.](https://austinkleon.com/show-your-work/)** Here's a quote from the book that triggered the inception of this website:
+This little static website of mine was born to **share what I do without relying heavily on social media or any other service without my granular control.** This sudden burst of desire to publicize my work was largely inspired by reading **Austin Kleon's** **[Show Your Work.](https://austinkleon.com/show-your-work/)** Here's a quote from the book that triggered the inception of this website:
 
 {% admonition(type="quote", title="A. Kleon") %}
 

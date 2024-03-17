@@ -3,7 +3,6 @@ title = "Can We Fix Social Media?"
 date = "2023-11-19"
 description = "Digging deep on one of our modern age's most critical dilemma brought to us by Social Media—The Social Dilemma; which is the title of Netflix's award winning documentary."
 [extra]
-cover_image = "/imgs/Untitled.jpg"
 [taxonomies]
 tags = ["devcomm"]
 +++

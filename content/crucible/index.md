@@ -4,7 +4,6 @@ date = "2024-02-27"
 draft = false
 description = "An Academic Paper on the Process of Innovating the Honda Pilot TrailSport"
 [extra]
-cover_image = "/crucible/gogh.png"
 [taxonomies]
 tags = ["Acads"]
 +++
