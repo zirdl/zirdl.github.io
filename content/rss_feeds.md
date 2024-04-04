@@ -1,7 +1,7 @@
 +++
 title = "📰 Effortless News Aggregation with RSS Feeds"
 date = "2024-03-20"
-draft = false
+draft = true
 description = "A comprehensive, normie-friendly guide on aggregating web content using RSS feeds."
 +++
 
