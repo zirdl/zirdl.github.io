@@ -1,0 +1,31 @@
+/* import to main */
+@font-face {
+  font-family: "Spectral";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Spectral/Spectral-Regular.ttf"), local("ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Spectral";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/Spectral/Spectral-Bold.ttf"), local("ttf");
+  font-display: swap;
+}
+/* @font-face { */
+/*   font-family: "Spectral"; */
+/*   font-style: normal; */
+/*   font-weight: 400; */
+/*   src: url("../fonts/Spectral/Spectral-Italic.ttf"), local("ttf"); */
+/*   font-display: swap; */
+/* } */
+
+/* @font-face { */
+/*   font-family: "Spectral"; */
+/*   font-style: normal; */
+/*   font-weight: 700; */
+/*   src: url("../fonts/Spectral/Spectral-BoldItalic.ttf"), local("ttf"); */
+/*   font-display: swap; */
+/* } */
