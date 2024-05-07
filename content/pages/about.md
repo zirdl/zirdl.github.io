@@ -8,16 +8,6 @@ I'm **Gio**, a second year student of the **College of Information Systems** at 
 
 I'm also a student-journalist, currently standing as the Chief Layout Artist of the Green Valley Treasure. I mainly do my work with **free and open-source software**. As for my line on writing, I do write **Development Communication**, **Feature**, and **Opinion** articles. I might also have a taste on photography.
 
-{%admonition(type="info", title="Work in Progress:")%}
-**Writing on these:** 
-- [ ] What Happened to DMMMSU's ISO certification?
-- [ ] Effortless News Aggregation with RSS Feeds
-
-**Planning to:** 
-* Write 'bout my frictionless note-taking and coding workflow using Neovim
-* Write 'bout my journey on Linux so far
-{%end%}
-
 This little static website of mine was born to **share what I do without relying heavily on social media or any other service limiting my granular control.** This sudden burst of desire to publish my work online was largely inspired by reading **Austin Kleon's** **[Show Your Work.](https://austinkleon.com/show-your-work/)** Here's a quote from the book that might also resonate with you 😉.
 
 {% admonition(type="quote", title="A. Kleon") %}
