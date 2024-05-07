@@ -1,7 +1,7 @@
 +++
 title = "📵 Can We Fix Social Media?"
 date = "2023-11-19"
-description = "Digging deep on one of our modern age's most critical dilemma brought to us by Social Media—The Social Dilemma; which is the title of Netflix's award winning documentary."
+description = "Digging deep on one of our modern age's most critical dilemma brought to us by Social Media—The Social Dilemma; which is the title of an award winning Netflix documentary."
 [extra]
 [taxonomies]
 tags = ["Devcomm"]

@@ -9,9 +9,6 @@ I'm **Gio**, a second year student of the **College of Information Systems** at 
 I'm also a student-journalist, currently standing as the Chief Layout Artist of the Green Valley Treasure. I mainly do my work with **free and open-source software**. As for my line on writing, I do write **Development Communication**, **Feature**, and **Opinion** articles. I might also have a taste on photography.
 
 {%admonition(type="info", title="Work in Progress:")%}
-**On Graphics:** 
-- [ ] Logo and animation assets for the upcoming Silver (25th) Founding Anniversary of our College
-
 **Writing on these:** 
 - [ ] What Happened to DMMMSU's ISO certification?
 - [ ] Effortless News Aggregation with RSS Feeds

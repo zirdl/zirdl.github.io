@@ -1,7 +1,7 @@
-<div class="not-prose flex flex-wrap gap-2">
+<div class="not-prose flex-gallery flex-wrap gap-2">
   {% for asset in page.assets -%}<!---->
   {% if asset is matching("[.](jpg|png)$") %}<!---->
-  {% set image = resize_image(path=asset, width=240, height=180) %}<!---->
+  {% set image = resize_image(path=asset, width=380, height=280, op="fit") %}<!---->
   {% set asset_name = asset | split(pat="/") | slice(start=-1) | join(sep="/")
   %}
   <a href="{{ get_url(path=page.path ~ asset_name) }}" target="_blank">
