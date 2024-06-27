@@ -21,8 +21,17 @@
 
   <!-- Content -->
   <section>{{ page.content | safe }}</section>
-
-  <hr />
+  <!-- Initialize lightbox -->
+     <script>
+         $(document).ready(function(){
+             // Initialize lightbox for all images with 'gallery' attribute
+             lightbox.option({
+                 'resizeDuration': 200,
+                 'wrapAround': true
+             });
+         });
+     </script>
+   <hr />
 
   <!-- Post Taxonomies -->
   {% include "partials/post_taxonomies.html" %}<!---->
