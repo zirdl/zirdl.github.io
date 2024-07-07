@@ -65,7 +65,7 @@ header_color = ""
 [extra.profile]
 name = "zirdl"
 bio = "Just another INTP with a boring website. More on me on the About page:}"
-avatar_url = "/imgs/hearing_aid.jpg"
+avatar_url = "/imgs/dp.png"
 avatar_invert = false 
 
 [[extra.profile.social]]
@@ -100,7 +100,7 @@ url = "$BASE_URL/tags"
 # F O O T E R 
 
 [extra.footer]
-since = 2023
+# since = 2024
 license = "CC BY-SA 4.0"
 license_url = "https://creativecommons.org/licenses/by-sa/4.0/deed"
 
