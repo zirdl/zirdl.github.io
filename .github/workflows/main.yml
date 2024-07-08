@@ -1,0 +1,29 @@
+name: Build and Deploy Zola site
+on:
+  delete:
+    branches-ignore:
+      - main
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v3.0.0
+
+      - name: Delete Deployment Environment
+        uses: strumwolf/delete-deployment-environment@v3.0.0
+        with:
+          ref: gh-pages
+          environment: github-pages
+          token: ${{ secrets.GITHUB_TOKEN }}
+          onlyRemoveDeployments: true
+
+      - name: build_and_deploy
+        uses: shalzz/zola-deploy-action@v0.17.2
+        env:
+          PAGES_BRANCH: gh-pages
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
