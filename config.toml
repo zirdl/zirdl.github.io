@@ -87,15 +87,16 @@ url = "$BASE_URL/atom.xml"
 
 [[extra.menu]]
 name = "🖼"
-url = "$BASE_URL/pholio"
+url = "$BASE_URL/giography"
+
+[[extra.menu]]
+name = "Tags"
+url = "$BASE_URL/tags"
 
 [[extra.menu]]
 name = "About"
 url = "$BASE_URL/about"
 
-[[extra.menu]]
-name = "Tags"
-url = "$BASE_URL/tags"
 
 # F O O T E R 
 
