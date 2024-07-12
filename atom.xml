@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>zirdl⌨</title>
+    <subtitle>Welcome to my website</subtitle>
+    <link href="https://zirdl.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://zirdl.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-05-03T00:00:00+00:00</updated>
+    <id>https://zirdl.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>📰 Ditch the Algorithm: Web Content Aggregation with RSS Feeds</title>
+        <published>2024-05-03T00:00:00+00:00</published>
+        <updated>2024-05-03T00:00:00+00:00</updated>
+        <author>
+          <name>gio</name>
+        </author>
+        <link rel="alternate" href="https://zirdl.github.io/ditch-algo/" type="text/html"/>
+        <id>https://zirdl.github.io/ditch-algo/</id>
+        
+        <content type="html"> &lt;!----&gt;
+
+
+&lt;div
+  class=&quot;my-4 flex flex-col rounded-lg bg-[var(--admonition-bg)]&quot;
+  style=&quot;--admonition-bg: rgba(159, 159, 159, 0.1)&quot;
+&gt;
+  &lt;div class=&quot;flex items-center rounded-t-lg bg-[var(--admonition-bg)] p-1&quot;&gt;
+    &lt;div
+      class=&quot;mx-2 h-4 w-4 text-[0] [background:var(--url)_center_center_no-repeat] dark:invert&quot;
+      style=&quot;--url: url(.&#x2F;icons&#x2F;quote.svg)&quot;
+    &gt;
+      quote
+    &lt;&#x2F;div&gt;
+    &lt;span&gt;&lt;strong&gt;Dave Winer, co-inventor of RSS feed&lt;&#x2F;strong&gt;&lt;&#x2F;span&gt;
+  &lt;&#x2F;div&gt;
+  &lt;div class=&quot;pl-4 pr-4&quot;&gt;&lt;p&gt;&lt;em&gt;&amp;quot;RSS enables us to break free from the information overload and take control of our online consumption. It&#x27;s a game-changer for both publishers and readers.&amp;quot;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;i-why-you-d-want-this&quot;&gt;I. Why You&#x27;d Want This:&lt;&#x2F;h2&gt;
+&lt;p&gt;In this digital age, where print media is seen as just another &#x27;hassle&#x27;; where social media capitalizes on people&#x27;s attention to feed assorted volumes of information, we cannot help but to fall on its distracting, clout-driven, proprietary, and algorithm-powered nature as a daily source of information and news.&lt;&#x2F;p&gt;
+&lt;p&gt;But if you like to be &lt;strong&gt;precise and conscious&lt;&#x2F;strong&gt; on the information you&#x27;re consuming, it would be best to have a tool that you yourself can configure to aggregate &lt;strong&gt;updates from various websites you&#x27;d choose to follow&lt;&#x2F;strong&gt;. This can take place without the expense of setting up an account on a social media platform and dealing with its overwhelming nature. Journalists, Tech enthusiasts, or even just normal people who just wants to follow updates from their frequently visited sites; &lt;strong&gt;anyone who chooses to have control over their consumption, would want to read news (or any web content) aggregated with RSS Feeds&lt;&#x2F;strong&gt;. With RSS Feeds, you will have a newspaper in your pocket.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;wtf-is-an-rss-feed&quot;&gt;WTF is an RSS Feed?&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;Really Simple Syndication (RSS) feeds&lt;&#x2F;strong&gt; are basically just &lt;strong&gt;files&lt;&#x2F;strong&gt; that get updated every time a website publishes a new content. This file now contains &lt;strong&gt;details&lt;&#x2F;strong&gt; from the name of the author, date published, link, the content&#x27;s summary, or even the whole content. Now we can see how direct this is: from the writers&#x2F;creators, or even media outlets, straight to your RSS Feed aggregator, this happens without any middle party, except for the internet, and your aggregator itself. Content arrives at your doorstep without the creeping force of analytics and algorithm, simply because you called [chose] for these content to arrive.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;ii-aggregating-feeds&quot;&gt;II. Aggregating Feeds&lt;&#x2F;h2&gt;
+ &lt;!----&gt;
+
+
+&lt;div
+  class=&quot;my-4 flex flex-col rounded-lg bg-[var(--admonition-bg)]&quot;
+  style=&quot;--admonition-bg: rgba(68, 138, 255, 0.1)&quot;
+&gt;
+  &lt;div class=&quot;flex items-center rounded-t-lg bg-[var(--admonition-bg)] p-1&quot;&gt;
+    &lt;div
+      class=&quot;mx-2 h-4 w-4 text-[0] [background:var(--url)_center_center_no-repeat] dark:invert&quot;
+      style=&quot;--url: url(.&#x2F;icons&#x2F;note.svg)&quot;
+    &gt;
+      note
+    &lt;&#x2F;div&gt;
+    &lt;span&gt;&lt;strong&gt;Free and Open-Source?&lt;&#x2F;strong&gt;&lt;&#x2F;span&gt;
+  &lt;&#x2F;div&gt;
+  &lt;div class=&quot;pl-4 pr-4&quot;&gt;&lt;p&gt;&lt;strong&gt;Free and Open-Source Software&lt;&#x2F;strong&gt; are pieces of software that are distributed for free—in the context of money—and having its source code available for anyone; to audit, secure, or maybe even edit it according to their taste. Therefore, &lt;strong&gt;FREEDOM!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;Building your feed is &lt;strong&gt;as simple as copy and pasting links&lt;&#x2F;strong&gt;. But first, we need to talk about what you should be &lt;strong&gt;copying&lt;&#x2F;strong&gt;, and &lt;strong&gt;where you&#x27;ll be pasting it&lt;&#x2F;strong&gt;. Of course there are &lt;em&gt;&lt;strong&gt;shortcuts&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt; [Feedly, Google Feeds, etc.] on this field of reading &#x27;news feeds&#x27;, you can even utilize the power of Artificial Intelligence for this specific job. But most of these services are, again, &lt;em&gt;&lt;strong&gt;appealing to your recent searches, interests, and even scooping data from your other applications&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt; [&lt;em&gt;yes, they can do that&lt;&#x2F;em&gt;] just to deliver you pieces of filtered information, tailored to your impulses.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;rss-feed-aggregators&quot;&gt;RSS Feed Aggregators&lt;&#x2F;h3&gt;
+&lt;p&gt;This [piece of software] is where you&#x27;ll be pasting, or importing the RSS feeds you&#x27;ve gathered yourself. There are quite diverse methods out there to aggregate feeds [i.e. using a web-based news feed like &lt;a href=&quot;https:&#x2F;&#x2F;tt-rss.org&#x2F;&quot;&gt;TinyRSS&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;apps.nextcloud.com&#x2F;apps&#x2F;news&quot;&gt;NextCloud News&lt;&#x2F;a&gt;, etc.], but this article is limited on showcasing &lt;strong&gt;local mobile and desktop applications that I have used to aggregate web content&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+ &lt;!----&gt;
+
+
+&lt;div
+  class=&quot;my-4 flex flex-col rounded-lg bg-[var(--admonition-bg)]&quot;
+  style=&quot;--admonition-bg: rgba(68, 138, 255, 0.1)&quot;
+&gt;
+  &lt;div class=&quot;flex items-center rounded-t-lg bg-[var(--admonition-bg)] p-1&quot;&gt;
+    &lt;div
+      class=&quot;mx-2 h-4 w-4 text-[0] [background:var(--url)_center_center_no-repeat] dark:invert&quot;
+      style=&quot;--url: url(.&#x2F;icons&#x2F;note.svg)&quot;
+    &gt;
+      note
+    &lt;&#x2F;div&gt;
+    &lt;span&gt;&lt;strong&gt;Note:&lt;&#x2F;strong&gt;&lt;&#x2F;span&gt;
+  &lt;&#x2F;div&gt;
+  &lt;div class=&quot;pl-4 pr-4&quot;&gt;&lt;p&gt;Note that &lt;strong&gt;Android is the main character&lt;&#x2F;strong&gt; in this case, as it caters freedom to its users allowing them to install applications outside the Google Play Store.&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;h3 id=&quot;feeder&quot;&gt;❯❯ Feeder&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;Feeder by spacecowboy&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;💽 You can find the source code in its repo: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;spacecowboy&#x2F;Feeder&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;spacecowboy&#x2F;Feeder&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;💽 And you can get Feeder on &lt;a href=&quot;https:&#x2F;&#x2F;f-droid.org&#x2F;repository&#x2F;browse&#x2F;?fdid=com.nononsenseapps.feeder&quot;&gt;F-Droid&lt;&#x2F;a&gt;, and &lt;a href=&quot;https:&#x2F;&#x2F;play.google.com&#x2F;store&#x2F;apps&#x2F;details?id=com.nononsenseapps.feeder.play&quot;&gt;Play Store&lt;&#x2F;a&gt;.
+ &lt;!----&gt;
+
+
+&lt;div
+  class=&quot;my-4 flex flex-col rounded-lg bg-[var(--admonition-bg)]&quot;
+  style=&quot;--admonition-bg: rgba(0, 191, 165, 0.1)&quot;
+&gt;
+  &lt;div class=&quot;flex items-center rounded-t-lg bg-[var(--admonition-bg)] p-1&quot;&gt;
+    &lt;div
+      class=&quot;mx-2 h-4 w-4 text-[0] [background:var(--url)_center_center_no-repeat] dark:invert&quot;
+      style=&quot;--url: url(.&#x2F;icons&#x2F;tip.svg)&quot;
+    &gt;
+      tip
+    &lt;&#x2F;div&gt;
+    &lt;span&gt;&lt;strong&gt;Description from its Git Repo:&lt;&#x2F;strong&gt;&lt;&#x2F;span&gt;
+  &lt;&#x2F;div&gt;
+  &lt;div class=&quot;pl-4 pr-4&quot;&gt;&lt;p&gt;&lt;strong&gt;Feeder is an open-source feed reader&lt;&#x2F;strong&gt; (RSS&#x2F;Atom&#x2F;JSONFeed) for Android created in 2014. It &lt;strong&gt;does NOT sync with usual remote backends&lt;&#x2F;strong&gt; so &lt;strong&gt;no account registration&lt;&#x2F;strong&gt; of any kind is necessary. Feeder is free to use and runs locally on your device. Your data is 100% private.&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;ve been using Feeder since 2020, reading what I chose to read. Feeder is one of those &amp;quot;no bullshit&amp;quot; applications that one normie can just install to their phone and use it right away without the need to be tinkering with the app. &lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Here are a couple of screenshots:&lt;&#x2F;strong&gt; 
+&lt;img src=&quot;https:&#x2F;&#x2F;zirdl.github.io&#x2F;ditch-algo&#x2F;ss.png&quot; alt=&quot;screenshots&quot; &#x2F;&gt; &lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Some of my favorite features of Feeder:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Offline Reading&lt;&#x2F;strong&gt; - Feeder allows you to pre-download your chosen articles upon fetching it. This is a plus when you don&#x27;t want the distraction of the webpage itself; You can just read it in plain, unformatted text, of course images will still be present. &lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Material Design&lt;&#x2F;strong&gt; - Our tastes on design are subjective. But material design is another plus for an app that just makes sense. From its super compact to the card style of the feed items, Material Design just fits my thirst for modern, good design.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;OPML Import&#x2F;Export&lt;&#x2F;strong&gt; - to have your links gathered in a single file (OPML) can make everything portable. I actually have a peer-to-peer synced OPML file between my computer and phone that gets updated every change.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;newsboat&quot;&gt;❯❯ Newsboat&lt;&#x2F;h3&gt;
+&lt;p&gt;Newsboat is a terminal-based RSS&#x2F;Atom feed reader written in Rust. This might not be a user friendly choice (for normies of course) as this runs on a terminal (that black window with a blinking cursor and plain text). But anyone can learn how to use one 😉.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;zirdl.github.io&#x2F;ditch-algo&#x2F;ss-newsboat-0.png&quot; alt=&quot;Screenshot showing newsboat&#x27;s description on its man page&quot; &#x2F;&gt; 
+&lt;strong&gt;Get Newsboat through:&lt;&#x2F;strong&gt; &lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Their website: &lt;a href=&quot;https:&#x2F;&#x2F;newsboat.org&quot;&gt;https:&#x2F;&#x2F;newsboat.org&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Or if you&#x27;re on Linux, you can check if Newsboat is available to your distribution&#x27;s package manager.&lt;&#x2F;li&gt;
+&lt;li&gt;Or you can just compile it yourself using the source-code from their git repository.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;The screenshots below shows my current feeds in its purest text form which I can read &lt;strong&gt;without even touching the mouse or touchpad&lt;&#x2F;strong&gt; (&lt;em&gt;because I&#x27;m a NeoVim person, BTW&lt;&#x2F;em&gt;). Through Newsboat, we can read articles without friction and distraction.
+&lt;img src=&quot;https:&#x2F;&#x2F;zirdl.github.io&#x2F;ditch-algo&#x2F;ss-newsboat.png&quot; alt=&quot;Newsboat feed list&quot; &#x2F;&gt; 
+&lt;img src=&quot;https:&#x2F;&#x2F;zirdl.github.io&#x2F;ditch-algo&#x2F;newsboat-feed.png&quot; alt=&quot;article sample&quot; &#x2F;&gt; &lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;iii-finding-the-file&quot;&gt;III. Finding the File&lt;&#x2F;h2&gt;
+&lt;p&gt;We already know that RSS&#x2F;Atom feeds are files uploaded every time a website publishes new content, but &lt;strong&gt;how do we find it?&lt;&#x2F;strong&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;zirdl.github.io&#x2F;ditch-algo&#x2F;rss-icon.png&quot; alt=&quot;The RSS Icon&quot; &#x2F;&gt; &lt;&#x2F;p&gt;
+ &lt;!----&gt;
+
+
+&lt;div
+  class=&quot;my-4 flex flex-col rounded-lg bg-[var(--admonition-bg)]&quot;
+  style=&quot;--admonition-bg: rgba(0, 191, 165, 0.1)&quot;
+&gt;
+  &lt;div class=&quot;flex items-center rounded-t-lg bg-[var(--admonition-bg)] p-1&quot;&gt;
+    &lt;div
+      class=&quot;mx-2 h-4 w-4 text-[0] [background:var(--url)_center_center_no-repeat] dark:invert&quot;
+      style=&quot;--url: url(.&#x2F;icons&#x2F;tip.svg)&quot;
+    &gt;
+      tip
+    &lt;&#x2F;div&gt;
+    &lt;span&gt;&lt;strong&gt;The RSS and atom.xml icon&lt;&#x2F;strong&gt;&lt;&#x2F;span&gt;
+  &lt;&#x2F;div&gt;
+  &lt;div class=&quot;pl-4 pr-4&quot;&gt;&lt;p&gt;Above is the universal icon of RSS feeds. This is what you should find if you want to have a feed of a particular website (this website is an example).&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;h3 id=&quot;in-case-you-didn-t-find-that-icon&quot;&gt;In case you didn&#x27;t find that icon&lt;&#x2F;h3&gt;
+&lt;p&gt;There are cases that websites do generate RSS feeds for their 
+audiences, &lt;strong&gt;but chooses not to show the RSS icon.&lt;&#x2F;strong&gt; The way you can get the link is to search for it through your browser&#x27;s Developer Tools. You can enter the developer mode by right-clicking your mouse, then choose the &lt;em&gt;&lt;strong&gt;&#x27;Inspect&#x27;&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt; option. &lt;&#x2F;p&gt;
+&lt;p&gt;The source-code of the website should be shown, and what you&#x27;re going to do is to search for keywords such as &#x27;&lt;strong&gt;RSS&lt;&#x2F;strong&gt;&#x27;, and &#x27;&lt;strong&gt;Atom&lt;&#x2F;strong&gt;&#x27;. If you do find a hyperlink that leads you to a .xml file, then congratulations, that&#x27;s the file you&#x27;re looking for.&lt;&#x2F;p&gt;
+&lt;p&gt;You can then &lt;strong&gt;paste the link of that file to your chosen RSS feed reader&lt;&#x2F;strong&gt; to enjoy the stream of updates from your favorites; Without any blabbery of an algorithm.&lt;&#x2F;p&gt;
+&lt;p&gt;~or you can just doom scroll~&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>📵 Can We Fix Social Media?</title>
+        <published>2023-11-19T00:00:00+00:00</published>
+        <updated>2023-11-19T00:00:00+00:00</updated>
+        <author>
+          <name>gio</name>
+        </author>
+        <link rel="alternate" href="https://zirdl.github.io/soc-dilemma/" type="text/html"/>
+        <id>https://zirdl.github.io/soc-dilemma/</id>
+        
+        <content type="html">&lt;h2 id=&quot;the-social-dilemma&quot;&gt;The Social Dilemma&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;imgs&#x2F;Untitled.jpg&quot; alt=&quot;Poster&quot; &#x2F;&gt; 
+The Netflix Docudrama—&lt;a href=&quot;https:&#x2F;&#x2F;www.netflix.com&#x2F;ph-en&#x2F;title&#x2F;81254224&quot;&gt;The Social Dilemma&lt;&#x2F;a&gt; explores social media&#x27;s flaws and harmful effects directed not just to our health, but also to our freedom and democracy. &lt;strong&gt;The Social Dilemma&lt;&#x2F;strong&gt; serves as a wake-up call, urging viewers to critically evaluate their relationship with social media and consider the broader implications of its widespread use. By exposing the flaws and harmful effects of these platforms, the documentary aims to spark conversations and encourage individuals, policymakers, and tech companies to address the ethical and societal challenges associated with social media.&lt;&#x2F;p&gt;
+&lt;p&gt;As we navigate the intricate landscape of social media, it becomes crucial to understand why we cannot blindly trust it while also acknowledging the challenges posed by completely quitting its use.&lt;&#x2F;p&gt;
+&lt;p&gt;We can visit &lt;a href=&quot;https:&#x2F;&#x2F;www.thesocialdilemma.com&#x2F;&quot;&gt;their website at thesocialdilemma.com&lt;&#x2F;a&gt; to learn more, and take action regarding the matter.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;we-cannot-trust-social-media&quot;&gt;We Cannot Trust Social Media&lt;&#x2F;h2&gt;
+&lt;p&gt;Have you ever read the &lt;strong&gt;Terms and Conditions&lt;&#x2F;strong&gt; of Facebook, Instagram, Twitter, or maybe Threads before ticking that check box and clicking the &lt;em&gt;&lt;strong&gt;Sign up&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt; button? Did you know that Meta (formerly Facebook) &lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;privacy&#x2F;policy&#x2F;?subpage=1.subpage.1-YourActivityAndInformation&quot;&gt;collects all your activities from their products?&lt;&#x2F;a&gt; Meta, on their Privacy Policy page states that they&#x27;re using your data to &lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;privacy&#x2F;policy?annotations%5B0%5D=1.story.3-WhatWeCollectFrom&amp;amp;subpage=1.subpage.1-YourActivityAndInformation&quot;&gt;improve various features of their products such as filters and the quality of voice recordings,&lt;&#x2F;a&gt; they&#x27;re also using your data to &lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;about&#x2F;ads&quot;&gt;show you advertisements&lt;&#x2F;a&gt; based from your activities on and off their platforms. Meta &lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;privacy&#x2F;policy&#x2F;?subpage=2.subpage.2-HowWeShowAds&quot;&gt;wants everything their users see to be interesting and useful to them&lt;&#x2F;a&gt;.&lt;&#x2F;strong&gt;  In Layman&#x27;s terms, they&#x27;re using your precious data to leverage profit; &lt;strong&gt;their entire business model runs on analyzing user data for targeted advertisements.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;br&gt;&lt;center&gt;
+&lt;img src=&quot;&#x2F;imgs&#x2F;fbook.png&quot; alt=&quot;fbook&quot; &#x2F;&gt;&lt;&#x2F;center&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Social media platforms have mastered the art of capturing our attention and shaping our behaviors. By employing sophisticated algorithms, they curate personalized content, often prioritizing sensational or divisive information. This algorithmic bias can create echo chambers and filter bubbles, presenting users with a distorted reality that reinforces their existing beliefs. As a result, we become susceptible to manipulation, hindering our ability to form well-rounded perspectives.&lt;&#x2F;p&gt;
+&lt;p&gt;But users, have the option to &lt;em&gt;&lt;strong&gt;&amp;quot;take control&amp;quot;&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt; over what they let companies to collect, does this mean that your data is now out of reach?. For example, users can turn-off personalized ads on Facebook (but users will still see ads on other platforms connected with their Facebook account), but that doesn&#x27;t mean that they get to see no ads, this just means that Meta won&#x27;t show their users what they call &lt;em&gt;&lt;strong&gt;&amp;quot;useful&amp;quot;&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt; ads, users will still get their fair share of advertisements. The former is just one of the many instances on how Meta, and probably any other social media platform that has the same business model, manipulates its users onto thinking that they are the one in-control of their data. Users &lt;strong&gt;can only take control of an app&#x27;s permissions&lt;&#x2F;strong&gt; on how it handles data from a user&#x27;s device, apart from that, &lt;strong&gt;everything is explicit&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;This is just the tip of the iceberg on why we cannot trust social media with our data. Meta, Facebook parent, has faced &lt;a href=&quot;https:&#x2F;&#x2F;slate.com&#x2F;technology&#x2F;2019&#x2F;10&#x2F;facebooks-2019-fines-and-settlements.html&quot;&gt;numerous lawsuits throughout its inception&lt;&#x2F;a&gt;, spending millions of dollars on paying settlement fines. The most prominent one is probably the &lt;a href=&quot;https:&#x2F;&#x2F;www.nytimes.com&#x2F;2018&#x2F;04&#x2F;04&#x2F;us&#x2F;politics&#x2F;cambridge-analytica-scandal-fallout.html&quot;&gt;Cambridge Analytica Scandal&lt;&#x2F;a&gt;, but recently, a new &lt;a href=&quot;https:&#x2F;&#x2F;www.washingtonpost.com&#x2F;documents&#x2F;b68f2951-2a4b-4822-b0fb-04238703c039.pdf?itid=lk_inline_manual_5&quot;&gt;lawsuit&lt;&#x2F;a&gt; by 41 states (in the U.S.) against Meta, was filed claiming that Facebook and Instagram exploits young users, through its algorithm, for profit and that these platforms poses serious health concerns to the young users.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;but-neither-can-we-quit-using-it&quot;&gt;But Neither Can We Quit Using It&lt;&#x2F;h2&gt;
+&lt;p&gt;Despite those aforementioned facts on the flaws of social media, we cannot also deny the fact that it [social media] has become interwined with our lives. A &lt;a href=&quot;https:&#x2F;&#x2F;www.statista.com&#x2F;statistics&#x2F;1127983&#x2F;philippines-leading-social-media-platforms&#x2F;&quot;&gt;research from statista.com&lt;&#x2F;a&gt; shows that Facebook, in the Philippines, still rules as the top social media platform, &lt;a href=&quot;https:&#x2F;&#x2F;www.statista.com&#x2F;statistics&#x2F;1219918&#x2F;philippines-sources-of-news-by-channel&#x2F;&quot;&gt;primary source of news&lt;&#x2F;a&gt;, and a ground for e-commerce companies to reach their consumers. &lt;strong&gt;Like the Telegraph, Print Media, Radio and Television, Social Media shaped how we communicate and connect interpersonally&lt;&#x2F;strong&gt;.
+&lt;br&gt;&lt;center&gt;
+&lt;img src=&quot;&#x2F;imgs&#x2F;newspaper-addicts.jpg&quot; alt=&quot;alt&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;center&gt;
+&lt;p&gt;&lt;em&gt;Image of people consuming news through print media &lt;a href=&quot;https:&#x2F;&#x2F;www.sadanduseless.com&#x2F;evil-iphones&#x2F;&quot;&gt;(Source)&lt;&#x2F;a&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;We don&#x27;t want to be missed-out from societal norms, and social media is a huge part of that norm. The &lt;strong&gt;fear of missing out (FOMO)&lt;&#x2F;strong&gt; on social interactions, events, and updates from friends and acquaintances is one of the factors why users are hesitant to quit social media. Social media platforms offer a convenient and instantaneous way to stay connected with others, making it difficult for individuals to sever these virtual ties. According to a &lt;a href=&quot;https:&#x2F;&#x2F;www.researchgate.net&#x2F;publication&#x2F;325452848_The_theory_of_planned_behaviour_and_user_engagement_applied_to_Facebook_advertising#read&quot;&gt;study&lt;&#x2F;a&gt; conducted by Dhir, Pallesen, and Torsheim (2016), FOMO significantly predicts social media engagement, indicating its influence on users&#x27; &lt;strong&gt;reluctance to quit&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;imgs&#x2F;influencing.png&quot; alt=&quot;influence&quot; &#x2F;&gt; &lt;&#x2F;p&gt;
+&lt;p&gt;On the psychological side of things, social media platforms provide a sense of validation through likes, comments, and online interactions, which can lead to emotional gratification. The constant stream of updates, notifications, and feedback triggers dopamine release in the brain, contributing to addictive behaviors. A &lt;a href=&quot;https:&#x2F;&#x2F;www.ncbi.nlm.nih.gov&#x2F;pmc&#x2F;articles&#x2F;PMC5369147&#x2F;&quot;&gt;research article&lt;&#x2F;a&gt; by Kuss and Griffiths (2017) explores the &lt;strong&gt;psychological gratification derived from social media use&lt;&#x2F;strong&gt;, highlighting the challenges individuals face when attempting to quit.&lt;&#x2F;p&gt;
+&lt;p&gt;Social media also has become a major source of news, entertainment, and information in the digital age. Platforms like Twitter, Facebook, and Instagram offer quick access to real-time updates, trending topics, and viral content. Quitting social media can result in a perceived loss of valuable information and entertainment. An &lt;a href=&quot;https:&#x2F;&#x2F;www.researchgate.net&#x2F;publication&#x2F;266164688_Social_Media_in_the_Changing_Ecology_of_News_The_Fourth_and_Fifth_Estate_in_Britain#read&quot;&gt;article&lt;&#x2F;a&gt; by Newman, Dutton, and Blank (2019) discusses the role of social media in news consumption and its impact on information behavior, shedding light on the difficulties associated with giving up these platforms.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-can-we-fix-it-then&quot;&gt;How Can We Fix it Then?&lt;&#x2F;h2&gt;
+&lt;p&gt;Fixing social media requires a holistic approach that addresses various aspects of its design, impact, and regulation. First and foremost, increased transparency and accountability are crucial. Social media platforms should be transparent about their algorithms, content moderation practices, and data collection methods. This transparency would enable users to better understand how their data is used and empower them to make informed choices about their online interactions. Additionally, establishing clear guidelines and standards for responsible content curation and moderation can help combat the spread of misinformation, hate speech, and harmful content.&lt;&#x2F;p&gt;
+&lt;p&gt;Furthermore, &lt;strong&gt;collaboration among stakeholders is essential&lt;&#x2F;strong&gt;. Governments, tech companies, researchers, and civil society organizations &lt;strong&gt;should work together&lt;&#x2F;strong&gt; to develop and implement regulations and policies that protect user privacy, promote digital literacy, and ensure ethical practices by social media platforms. This collaboration can also involve supporting independent fact-checking organizations, open-source projects, and promoting media literacy to equip users with the skills to critically evaluate information. Additionally, empowering users through customizable privacy settings, intuitive user interfaces, and easy-to-access tools for managing screen time and well-being can help individuals take control of their social media experiences. Ultimately, fostering a culture of responsible digital citizenship and promoting empathy, respect, and healthy online interactions will contribute to a more positive and constructive social media environment.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

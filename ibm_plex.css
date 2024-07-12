@@ -1,0 +1,16 @@
+/* import to main */
+@font-face {
+  font-family: "IBMPlexMono";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/IBMPlex/IBMPlexMono-Regular.ttf"), local("ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IBMPlexMono";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/IBMPlex/IBMPlexMono-Bold.ttf"), local("ttf");
+  font-display: swap;
+}
