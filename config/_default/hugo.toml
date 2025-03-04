@@ -1,4 +1,4 @@
-baseURL = "https://giography.vercel.app/"
+baseURL = "https://zirdl.github.io/"
 copyright = "© Giovani Valdriz | 2025"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "term"]
