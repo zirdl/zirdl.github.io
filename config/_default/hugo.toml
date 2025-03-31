@@ -40,7 +40,6 @@ title = "giography"
     email = "mailto:zirdl.giography@gmail.com"
     facebook = "https://www.facebook.com/giography.zirdl"
     instagram = "#"
-    website = "#"
     #mastodon = "https://example.com"
   # [params.search]
   #   filter_taxonomies = false
@@ -51,6 +50,10 @@ title = "giography"
   #   threshold = 0.3
   #   expand_results_meta = true
   #   histories = false
+  [params.gallery]
+    boxSpacing = 10
+    targetRowHeight = 288
+    targetRowHeightTolerance = 0.25
 
 [outputs]
   home = ["HTML", "RSS"]

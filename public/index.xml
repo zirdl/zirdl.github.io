@@ -1,59 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>giography</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on giography</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>zirdl.giography@gmail.com (gio)</managingEditor>
-    <webMaster>zirdl.giography@gmail.com (gio)</webMaster>
-    <copyright>© Giovani Valdriz | 2025</copyright>
-    <lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Babaen Kadagiti Ikat</title>
-      <link>http://localhost:1313/mangngalap/</link>
-      <pubDate>Fri, 06 Dec 2024 00:00:00 +0800</pubDate><author>zirdl.giography@gmail.com (gio)</author>
-      <guid>http://localhost:1313/mangngalap/</guid><media:content url="http://localhost:1313/mangngalap/DSC05343_hufc7066a429571dbaf7105a6326114cb3_9540033_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/mangngalap/DSC05343_hufc7066a429571dbaf7105a6326114cb3_9540033_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
-          &lt;p&gt;From the Ili, for the Ili. Litlitrato ken istorya dagiti mangngalap. Dagitoy dagiti entry&#39;k iti exhibition nga maipapan kadagiti angkel tayo nga mangngalap. Ti exhibit ket maipabuya sadiay Alfredo F. Tadiar Library aginggana Enero 19, 2025. Maawis ti amin idyay exhibit nga umay mangkita ken umangot nu kasatno ti bibiagen iti maysa a mangngalap.&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>Sa Kalye Palengke</title>
-      <link>http://localhost:1313/street/kalye/</link>
-      <pubDate>Thu, 03 Oct 2024 00:00:00 +0800</pubDate><author>zirdl.giography@gmail.com (gio)</author>
-      <guid>http://localhost:1313/street/kalye/</guid><media:content url="http://localhost:1313/street/kalye/images/101_out_est_hu94dc00e036d9e7eeb0852b608ffef314_3830372_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/street/kalye/images/101_out_est_hu94dc00e036d9e7eeb0852b608ffef314_3830372_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
-          &lt;p&gt;Bagama&#39;t ilang buwan nalang ang nalalabi bago matapos ang taon, wala pa ring opisyal na pahayag ang mga awtoridad patungkol sa pinagmulan ng apoy na tumupok sa naturang pamilihan na siyang naging sentro ng paghahanap-buhay ng mga mamamayan ng Siyudad.&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>Tiendaan Chronicles</title>
-      <link>http://localhost:1313/street/tiendaan/</link>
-      <pubDate>Wed, 05 Mar 2025 00:00:00 +0800</pubDate><author>zirdl.giography@gmail.com (gio)</author>
-      <guid>http://localhost:1313/street/tiendaan/</guid><media:content url="http://localhost:1313/street/tiendaan/20250118_0001_hubd58c4ac3aed84769de01632daf64933_6873455_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/street/tiendaan/20250118_0001_hubd58c4ac3aed84769de01632daf64933_6873455_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
-          &lt;p&gt;A long-term project on documenting public markets and vendors, highlighting the crucial role of these spaces for the society itself.&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>The Gathering:Everyday People Prod. ep. 05</title>
-      <link>http://localhost:1313/events/the_gathering/</link>
-      <pubDate>Sat, 11 Jan 2025 00:00:00 +0800</pubDate><author>zirdl.giography@gmail.com (gio)</author>
-      <guid>http://localhost:1313/events/the_gathering/</guid><media:content url="http://localhost:1313/events/the_gathering/featured_hubebc624d02a9737fbe4e0734f40cf09a_13038393_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/events/the_gathering/featured_hubebc624d02a9737fbe4e0734f40cf09a_13038393_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
-          &lt;p&gt;Everyday People Productions episode 5: The Gathering—a gig to showcase the diverse local bands and artists of La Union.&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>Biag ti Mangngalap: Visual Narratives from Amianan Fisherfolk Communities</title>
-      <link>http://localhost:1313/events/mangngalap_exhibit/</link>
-      <pubDate>Sun, 22 Dec 2024 00:00:00 +0800</pubDate><author>zirdl.giography@gmail.com (gio)</author>
-      <guid>http://localhost:1313/events/mangngalap_exhibit/</guid><media:content url="http://localhost:1313/events/mangngalap_exhibit/featured_hubd58c4ac3aed84769de01632daf64933_13762227_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/events/mangngalap_exhibit/featured_hubd58c4ac3aed84769de01632daf64933_13762227_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
-          &lt;p&gt;Snaps during the exhibit opening at Alfredo Tadiar Library, where we got to hear the voices, primarily, of the fisherfolk community. Curator&#39;s note/speech, and artists&#39; statements were also heard before the exhibit was opened.&lt;/p&gt;
-        </description></item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>giography</title><link>https://zirdl.github.io/</link><description>Recent content on giography</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>zirdl.giography@gmail.com (gio)</managingEditor><webMaster>zirdl.giography@gmail.com (gio)</webMaster><copyright>© Giovani Valdriz | 2025</copyright><lastBuildDate>Sat, 29 Mar 2025 00:00:00 +0800</lastBuildDate><atom:link href="https://zirdl.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Dalikan Plein-Air Session for a Cause</title><link>https://zirdl.github.io/events/pleinair/</link><pubDate>Sat, 29 Mar 2025 00:00:00 +0800</pubDate><author>zirdl.giography@gmail.com (gio)</author><guid>https://zirdl.github.io/events/pleinair/</guid><media:content url="https://zirdl.github.io/events/pleinair/20250329_0001_hufc7066a429571dbaf7105a6326114cb3_672723_filter_2999419463905045822.jpg" type="image/jpeg"/><description>
+&lt;img src="https://zirdl.github.io/events/pleinair/20250329_0001_hufc7066a429571dbaf7105a6326114cb3_672723_filter_2999419463905045822.jpg" />
+&lt;p>Fighting a Stage 4 Stomach Cancer, our co-artists mother is struggling. The Community then, organized a Plein-Air Session to raise funds for the treatment of his ailing mother.&lt;/p></description></item><item><title>Tiendaan Chronicles</title><link>https://zirdl.github.io/projects/tiendaan/</link><pubDate>Wed, 05 Mar 2025 00:00:00 +0800</pubDate><author>zirdl.giography@gmail.com (gio)</author><guid>https://zirdl.github.io/projects/tiendaan/</guid><media:content url="https://zirdl.github.io/projects/tiendaan/featured_hufc7066a429571dbaf7105a6326114cb3_989615_filter_2999419463905045822.jpg" type="image/jpeg"/><description>
+&lt;img src="https://zirdl.github.io/projects/tiendaan/featured_hufc7066a429571dbaf7105a6326114cb3_989615_filter_2999419463905045822.jpg" />
+&lt;p>A long-term project on documenting public markets and vendors, highlighting the crucial role of these spaces for the society that it serves.&lt;/p></description></item><item><title>The Gathering:Everyday People Prod. ep. 05</title><link>https://zirdl.github.io/events/the_gathering/</link><pubDate>Sat, 11 Jan 2025 00:00:00 +0800</pubDate><author>zirdl.giography@gmail.com (gio)</author><guid>https://zirdl.github.io/events/the_gathering/</guid><media:content url="https://zirdl.github.io/events/the_gathering/featured_hubebc624d02a9737fbe4e0734f40cf09a_13038393_filter_2999419463905045822.jpg" type="image/jpeg"/><description>
+&lt;img src="https://zirdl.github.io/events/the_gathering/featured_hubebc624d02a9737fbe4e0734f40cf09a_13038393_filter_2999419463905045822.jpg" />
+&lt;p>Everyday People Productions episode 5: The Gathering—a gig to showcase the diverse local bands and artists of La Union.&lt;/p></description></item><item><title>Biag ti Mangngalap: Visual Narratives from Amianan Fisherfolk Communities</title><link>https://zirdl.github.io/events/mangngalap_exhibit/</link><pubDate>Sun, 22 Dec 2024 00:00:00 +0800</pubDate><author>zirdl.giography@gmail.com (gio)</author><guid>https://zirdl.github.io/events/mangngalap_exhibit/</guid><media:content url="https://zirdl.github.io/events/mangngalap_exhibit/featured_hubd58c4ac3aed84769de01632daf64933_13762227_filter_2999419463905045822.jpg" type="image/jpeg"/><description>
+&lt;img src="https://zirdl.github.io/events/mangngalap_exhibit/featured_hubd58c4ac3aed84769de01632daf64933_13762227_filter_2999419463905045822.jpg" />
+&lt;p>Snaps during the exhibit opening at Alfredo Tadiar Library, where we got to hear the voices, primarily, of the fisherfolk community. Curator's note/speech, and artists' statements were also heard before the exhibit was opened.&lt;/p></description></item><item><title>ft. Barbara</title><link>https://zirdl.github.io/portraits/barbara/</link><pubDate>Sun, 22 Dec 2024 00:00:00 +0800</pubDate><author>zirdl.giography@gmail.com (gio)</author><guid>https://zirdl.github.io/portraits/barbara/</guid><media:content url="https://zirdl.github.io/portraits/barbara/featured_hubd58c4ac3aed84769de01632daf64933_959020_filter_2999419463905045822.jpg" type="image/jpeg"/><description>
+&lt;img src="https://zirdl.github.io/portraits/barbara/featured_hubd58c4ac3aed84769de01632daf64933_959020_filter_2999419463905045822.jpg" />
+&lt;p>&lt;no value>&lt;/p></description></item></channel></rss>

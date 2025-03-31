@@ -1,6 +1,6 @@
 ---
 lastmod: 2024-10-03
-sort_by: params.weight
+sort_by: date
 #featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg 
 # default: first image in this directory
 # featured_image on the home page is used for OpenGraph cards, etc.

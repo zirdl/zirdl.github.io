@@ -5,5 +5,5 @@ keywords:
     - portraits
 featured: false
 private: false # do not show in list, only as feature
-description: "Quirky adventures with calm and gentle vibes with Lea Barbara"
+# description: ""
 ---
