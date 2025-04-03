@@ -8,5 +8,6 @@ menus:
   main:
     name: Home
     weight: -1
+theme: "dark"
 # sub-galleries on list pages are sorted by date and weight (descending)
 ---

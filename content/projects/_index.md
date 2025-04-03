@@ -4,5 +4,6 @@ keywords: [Projects]
 title: Projects
 weight: 3
 menus: "main"
+theme: "dark"
 # list pages require at least one image to be displayed.
 ---
