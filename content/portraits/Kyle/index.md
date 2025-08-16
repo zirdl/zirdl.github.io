@@ -1,7 +1,7 @@
 ---
 date: 2024-10-06
 title: ft. ate Kyle
-draft: true
+draft: false
 keywords:
     - portraits
 featured: false

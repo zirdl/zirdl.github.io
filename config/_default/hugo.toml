@@ -39,7 +39,7 @@ title = "giography"
   [params.socialIcons]
     email = "mailto:zirdl.giography@gmail.com"
     facebook = "https://www.facebook.com/giography.zirdl"
-    instagram = "#"
+    instagram = "https://www.instagram.com/zirdl.jpg"
     #mastodon = "https://example.com"
   # [params.search]
   #   filter_taxonomies = false
